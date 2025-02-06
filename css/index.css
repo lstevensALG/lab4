@@ -1,3 +1,6 @@
+* {
+    background-color: lightgray;
+}
 h1.noNewLine {
     display: inline;
 }
